@@ -1,4 +1,4 @@
-<h3 align="center"><a  href="https://github.com/godfathxx" target="_self"><img src="https://media.giphy.com/media/3SL41WtN5l9DNdPJGs/giphy.gif"></a> 
+<h3 align="center"><a  href="https://github.com/godfathxx" target="_self"><img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif"></a> 
 
 
 <h1 align="center">Hi 👋, I'm Tanya Twinkle</h1>
