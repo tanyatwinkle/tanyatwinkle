@@ -1,3 +1,6 @@
+<h3 align="center"><a  href="https://github.com/godfathxx" target="_self"><img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif"></a> 
+
+
 <h1 align="center">Hi 👋, I'm Tanya Twinkle</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
