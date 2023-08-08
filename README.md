@@ -1,4 +1,4 @@
-<h3 align="center"><a  href="https://github.com/godfathxx" target="_self"><img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif"></a> 
+<h3 align="center"><a  href="https://github.com/godfathxx" target="_self"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ExZmk0NTdvZG90cXJkbzRseGFuZ3ZkbDIxd2pmczd3OHBxb3A2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/giphy.gif"></a> 
 
 
 <h1 align="center">Hi 👋, I'm Tanya Twinkle</h1>
